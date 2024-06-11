@@ -40,7 +40,7 @@
     // Forma de agregar un nuevo elemento al arraeglo
     $languagesDev[] = "TypeScript";
 
-    // Array Aociativo
+    // Array Asociativo
     $person = [
         "name" => "Luis",
         "age" => 18,
